@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>2.2.25.98</version>
-    <url>https://github.com/felipefr02/StandPRO-releases/releases/download/v2.2.25.98/StandPRO_Setup_v2.2.25.98.exe</url>
-    <checksum algorithm="SHA256">E73A8040F71A3DDF1C025E6E018764D1B67834D1BF074D09AAE3F18458454703</checksum>
+    <version>2.2.25.99</version>
+    <url>https://github.com/felipefr02/StandPRO-releases/releases/download/v2.2.25.99/StandPRO_Setup_v2.2.25.99.exe</url>
+    <checksum algorithm="SHA256">8E6876466B85B1CBA4675D11CB1B86C765E37772F2EC6833D461B5210799C903</checksum>
     <mandatory mode="1">true</mandatory>
 </item>
